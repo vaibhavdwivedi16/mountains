@@ -1,0 +1,14 @@
+body{
+    background-image: url("MY-FIrST.jpg.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+#signup {
+    height: 50px;
+    width: 200px;
+    font-size: larger;
+    border-radius: 25px;
+}
+
